@@ -9,7 +9,7 @@ const Products = (props) => {
       {product_list.map((listitem, index) => (
         <article key={index} className="product">
           <div className="productimage">
-            <Image field={listitem.fields.image.value}/>
+            <Image field={listitem.fields.image.value} />
           </div>
           <div>
             <h3>{listitem.fields.title.value}</h3>

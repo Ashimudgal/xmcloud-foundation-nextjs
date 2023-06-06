@@ -1,18 +1,17 @@
 import React from 'react';
-import { Text, NextImage } from '@sitecore-jss/sitecore-jss-nextjs';
-//import { Text, Image } from '@sitecore-jss/sitecore-jss-react';
+import { Text, ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Image, Field } from '@sitecore-jss/sitecore-jss-react';
 
 type HeroProps = {
-    fields: {
-      heroimg: any,
-      herotext: any  
-    };
-  }
-  
+  fields: {
+    heroimg: ImageField;
+    herotext: Field<string>;
+  };
+};
 const Hero = (props: HeroProps): JSX.Element => (
   <div className="hero">
     <div className="heroImg">
-      <NextImage field={props.fields.heroimg} unoptimized={true}/>
+      <Image field={props.fields.heroimg} />
     </div>
     <React.Fragment>
       <Text
