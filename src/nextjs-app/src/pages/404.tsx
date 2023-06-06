@@ -32,7 +32,7 @@ export const getStaticProps: GetStaticProps = async (context) => {
 
   return {
     props: {
-	  headLinks: [],
+      headLinks: [],
       layoutData: resultErrorPages?.notFoundPage?.rendered || null,
     },
   };
