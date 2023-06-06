@@ -1,0 +1,56 @@
+﻿---
+ID: "caca841d-a5ef-5261-bd61-897718ac8726"
+Parent: "ab99ba2b-b606-51e3-bad9-fd8358de1333"
+Template: "b859f238-1c39-51b9-b758-817e7af76b28"
+Path: "/sitecore/content/demo/nextjs-app/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7FCF54E14D2DDEE96747EE3CC441EBE9A4FE9EE7D90F5ABCCDE076F5B72DBDA43"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Link-9"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "241425fc-5764-5c1a-86dd-715d9effb299"
+      Hint: emailLink
+      Value: |
+        <link linktype="mailto" text="Send an Email" url="mailto:foo@bar.com" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T080332Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "640da472-e45a-5d4e-84ce-286b116f53e9"
+      Hint: description
+      Value: <p>A <em>General Link</em> is a field that represents an <code>&lt;a&gt;</code> tag.</p>
+    - ID: "73aaf95e-626a-5d13-989e-b6ad1d73c84c"
+      Hint: heading
+      Value: General Link
+    - ID: "77eb7de5-2009-57ba-b214-e809b5627b21"
+      Hint: externalLink
+      Value: |
+        <link linktype="external" text="Link to Sitecore" url="https://www.sitecore.com" />
+    - ID: "87b15126-5e69-5fa5-b617-cf6674c821fe"
+      Hint: paramsLink
+      Value: |
+        <link class="fw-bold" target="_blank" title="&lt;a&gt; title attribute" linktype="external" text="Sitecore Dev Site" url="https://dev.sitecore.net" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1bd16153-4048-4018-ac3e-4f7fbd0019a7"
+    - ID: "ae82ab36-8cec-5fee-8e39-8ead0bba1b80"
+      Hint: internalLink
+      Value: |
+        <link id="{54C8E9B5-0B2C-5363-8FA6-D32A3A302F51}" linktype="internal" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230522T120716Z

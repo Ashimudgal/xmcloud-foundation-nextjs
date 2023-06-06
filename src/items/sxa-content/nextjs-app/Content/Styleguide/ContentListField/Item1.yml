@@ -1,0 +1,37 @@
+﻿---
+ID: "a313cb95-a3b7-51b4-a6e2-1486691312b1"
+Parent: "94652c74-6286-5489-be1b-6f4f8f4264d1"
+Template: "aeb536f0-28c4-5873-ac2c-21b443c2efcb"
+Path: "/sitecore/content/demo/nextjs-app/Content/Styleguide/ContentListField/Item1"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Styleguide Content List Item 1 (Shared)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T080140Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7717a52e-35b2-4b98-a8ed-887025ec2cd0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230522T080140Z
+    - ID: "f7ce995f-c6c9-5fd8-a5a8-475ae1cf55a0"
+      Hint: textField
+      Value: ContentList Demo (Shared) Item 1 Text Field

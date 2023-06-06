@@ -1,0 +1,29 @@
+﻿---
+ID: "e8df7195-dc0c-4ef7-8292-a102b809a7ff"
+Parent: "44f7af6f-fdf7-5027-b41a-9e346ee5912f"
+Template: "e1d2dd73-c904-4d37-ad0e-21c87fb23582"
+Path: "/sitecore/content/demo/nextjs-app/home/Page Components/TestComponent1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230523T084856Z
+    - ID: "6b28aa42-0b49-4a1d-930e-c94213ffe97b"
+      Hint: body
+      Value: test content test 2
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a943a9cb-c5ea-4007-a9b1-1a2506e3377b"
+    - ID: "99959199-6806-406f-a601-f8a1fdf2ea1b"
+      Hint: heading
+      Value: test heading test
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230523T092756Z

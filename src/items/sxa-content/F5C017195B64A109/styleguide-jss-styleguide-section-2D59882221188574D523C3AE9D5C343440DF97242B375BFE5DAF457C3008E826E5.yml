@@ -1,0 +1,40 @@
+﻿---
+ID: "9390581e-9359-516d-9f10-6b95ca846eb9"
+Parent: "ab99ba2b-b606-51e3-bad9-fd8358de1333"
+Template: "dd6846f1-8d64-5aec-a298-808cdd7dbf0d"
+Path: "/sitecore/content/demo/nextjs-app/home/styleguide/Page Components/styleguide-jss-styleguide-section-2D59882221188574D523C3AE9D5C343440DF97242B375BFE5DAF457C3008E826E5"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-ComponentParams-3"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T080334Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "640da472-e45a-5d4e-84ce-286b116f53e9"
+      Hint: description
+      Value: "<p><small>Component params (also called Rendering Parameters) allow storing non-content parameters for a component. These params should be used for more technical options such as CSS class names or structural settings.</small></p>"
+    - ID: "73aaf95e-626a-5d13-989e-b6ad1d73c84c"
+      Hint: heading
+      Value: Component Params
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13409d6d-d641-498b-a8a0-afafc723e13c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230522T080334Z

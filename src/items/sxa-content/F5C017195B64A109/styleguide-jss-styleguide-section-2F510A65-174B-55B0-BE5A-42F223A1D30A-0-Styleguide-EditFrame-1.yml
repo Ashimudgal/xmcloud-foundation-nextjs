@@ -1,0 +1,45 @@
+﻿---
+ID: "2d155496-9587-51e6-a3fa-fd76f88e9d4f"
+Parent: "ab99ba2b-b606-51e3-bad9-fd8358de1333"
+Template: "16ae3156-1af8-5bd0-8137-acdde81db45f"
+Path: "/sitecore/content/demo/nextjs-app/home/styleguide/Page Components/styleguide-jss-styleguide-section-2F510A65-174B-55B0-BE5A-42F223A1D30A-0-Styleguide-EditFrame-1"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-EditFrame-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0eb5cb01-266b-5824-ba5a-c7925304df88"
+      Hint: description
+      Value: "<p>Who framed Roger Rabbit? Hard to say. <br /> But JSS now allows to edit frame any piece of content on a page in editing mode. <br /> You can add web edit or field edit buttons, modify edit frame style through CSS class and put the frame wherever you need it. </p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T080334Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "7223dc38-1600-539c-88ab-03e1c9d1c399"
+      Hint: sampleList
+      Value: |
+        {81F9DA5C-F6AA-572C-82CA-8E172CC96239}
+        {9DB9B52B-9354-5BA7-9BE0-E7C08165CB27}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65dc39e3-00c4-49c8-8162-bb79f7224064"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230522T080334Z
+    - ID: "ea0966e0-ff67-5739-b570-6b5db7709d4d"
+      Hint: heading
+      Value: Edit Frame

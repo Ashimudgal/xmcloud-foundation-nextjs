@@ -1,0 +1,43 @@
+﻿---
+ID: "e36e670d-3719-5f26-b7ba-e25ef0a005a4"
+Parent: "ab99ba2b-b606-51e3-bad9-fd8358de1333"
+Template: "f424b89a-a147-59b8-bbc6-5f8613fa3427"
+Path: "/sitecore/content/demo/nextjs-app/home/styleguide/Page Components/styleguide-jss-main-ContentBlock-1"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "ContentBlock-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2382892d-6f94-536c-94d0-e7aaa75a75f3"
+      Hint: heading
+      Value: JSS Styleguide
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T080330Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "5e544c15-25e9-5c35-ab7d-4c443ea54175"
+      Hint: content
+      Value: |
+        <p>This is a live set of examples of how to use JSS. For more information on using JSS, please see <a href="https://jss.sitecore.com" target="_blank" rel="noopener noreferrer">the documentation</a>.</p>
+        <p>The content and layout of this page is defined in <code>/data/routes/styleguide/en.yml</code></p>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76c969e1-bb37-4964-acf3-599bd1744567"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230522T080330Z

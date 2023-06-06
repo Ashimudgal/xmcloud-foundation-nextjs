@@ -1,0 +1,38 @@
+﻿---
+ID: "4bd16fd0-50b4-4160-aaec-3778fdad4cf9"
+Parent: "91475e0e-39dd-4fec-b648-55149b2a6d64"
+Template: "91475e0e-39dd-4fec-b648-55149b2a6d64"
+Path: "/sitecore/templates/Project/nextjs-app/Hero/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230523T093221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7de75c8c-534d-4f6b-a9d7-537d2ecfdbe3"
+      Hint: herotext
+      Value: sample hero text
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76856f2a-052e-4116-b4e4-1a37ace8519f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230523T094050Z
+    - ID: "e2e3558b-b516-4938-a673-a1e5bdefa614"
+      Hint: heroimg
+      Value: |
+        <image mediaid="{9607C8BC-C1E4-4EC5-9941-28CA43146460}" />
