@@ -14,7 +14,7 @@ const Custom404 = (props: SitecorePageProps): JSX.Element => {
 
   return (
     <SitecoreContext componentFactory={componentFactory} layoutData={props.layoutData}>
-      <Layout layoutData={props.layoutData} headLinks={props.headLinks} />
+      <Layout layoutData={props.layoutData} />
     </SitecoreContext>
   );
 };
@@ -25,13 +25,14 @@ export const getStaticProps: GetStaticProps = async (context) => {
     endpoint: config.graphQLEndpoint,
     apiKey: config.sitecoreApiKey,
     siteName: site.name,
-    language: context.locale || config.defaultLanguage,
+    language: context.locale || context.defaultLocale || config.defaultLanguage,
   });
 
   const resultErrorPages = await errorPagesService.fetchErrorPages();
 
   return {
     props: {
+	  headLinks: [],
       layoutData: resultErrorPages?.notFoundPage?.rendered || null,
     },
   };
